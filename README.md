@@ -17,6 +17,19 @@
 #### 🧠 Data Science & AI Tools
 - ![Python](https://img.shields.io/badge/Python-333333?style=plastic&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=plastic&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=plastic&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=plastic&logo=matplotlib) ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=plastic&logo=jupyter)
 - ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=plastic&logo=openai) ![LLM](https://img.shields.io/badge/-LLM-333333?style=plastic&logo=llm) ![Gemini](https://img.shields.io/badge/Gemini-333333?style=plastic&logo=google&logoColor=white)
+
+#### 💾 Databases & Data Handling
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-333333?style=plastic&logo=redis) 
+- ![Rest API](https://img.shields.io/badge/-Rest_API-333333?style=plastic) 
+
+#### 🛠️ Development & Infrastructure (Manutenção)
+- ![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker) 
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=plastic&logo=visualstudiocode) ![Linux](https://img.shields.io/badge/-Linux-333333?style=plastic&logo=linux&logoColor=white) 
+
+#### ☁️ Cloud & Web (Manutenção)
+- ![GCP](https://img.shields.io/badge/-GCP-333333?style=plastic&logo=google-cloud) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=plastic&logo=cloudflare) 
+
+##
  
 <div align="center"> 
   <a href = "https://www.instagram.com/alexandreslima.oficial/">            <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
