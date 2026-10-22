@@ -48,6 +48,7 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [dashboard-pesquisa-mercado-powerbi](https://github.com/vitoriasilva242/dashboard-pesquisa-mercado-powerbi) | Dashboard de pesquisa de mercado para marca de educação em nutrição (case de empresa júnior) | Power BI |
 | [manipulacao-dados-api-marvel](https://github.com/vitoriasilva242/manipulacao-dados-api-marvel) | Consumo e manipulação de dados da API da Marvel | Python |
 | [LinguagensdeProgramacao](https://github.com/vitoriasilva242/LinguagensdeProgramacao) | Exercícios e estudos de linguagens de programação | — |
 
