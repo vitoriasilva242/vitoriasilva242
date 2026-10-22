@@ -1,43 +1,54 @@
-<div align="right">
-  
-![](https://komarev.com/ghpvc/?username=vitoriasilva242&color=9146ff)
-[![GitHub](https://img.shields.io/github/followers/vitoriasilva242?label=follow&style=social)](https://github.com/vitoriasilva242)
-</div>
 <div align="center">
-  
-# I'm Vitória Hugo de Jesus Silva  <br> Data Science & AI Student | Python Beginner | Data Analyst Focus
+
+# Olá, eu sou a Vitória 👋
+
+**Estudante de Ciência da Computação no CEFET-RJ · Em busca de estágio em desenvolvimento**
+
+<a href="https://www.linkedin.com/in/vit%C3%B3ria-hugo-a14494314"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:vivi13silva@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
 </div>
 
-### 🎓 Estudos e Foco
+---
 
-**Estudante de Ciência de Dados e Inteligência Artificial** na FGV. Foco em aprendizado de **Python** para análise, manipulação de dados e Machine Learning.
+### Sobre mim
 
-### 💻 Hard Skills
+- 🎓 Cursando **Bacharelado em Ciência da Computação** no CEFET-RJ (desde ago/2026)
+- 📊 Passei por **Ciência de Dados e Inteligência Artificial** na FGV EMAP (2025)
+- ✈️ Fui **cadete intendente na Academia da Força Aérea** (2021–2024), onde aprendi disciplina, trabalho em equipe e a resolver problemas sob pressão
+- 🎯 Busco um **estágio em desenvolvimento** para aplicar lógica de programação, bancos de dados e Git em projetos reais
+- 🌎 Português (nativo) · Inglês (avançado)
 
-#### 🧠 Data Science & AI Tools
-- ![Python](https://img.shields.io/badge/Python-333333?style=plastic&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=plastic&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=plastic&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=plastic&logo=matplotlib) ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=plastic&logo=jupyter)
-- ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=plastic&logo=openai) ![LLM](https://img.shields.io/badge/-LLM-333333?style=plastic&logo=llm) ![Gemini](https://img.shields.io/badge/Gemini-333333?style=plastic&logo=google&logoColor=white)
+### Tecnologias
 
-#### 💾 Databases & Data Handling
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-333333?style=plastic&logo=redis) 
-- ![Rest API](https://img.shields.io/badge/-Rest_API-333333?style=plastic) 
+**Programação**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 
-#### 🛠️ Development & Infrastructure (Manutenção)
-- ![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker) 
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=plastic&logo=visualstudiocode) ![Linux](https://img.shields.io/badge/-Linux-333333?style=plastic&logo=linux&logoColor=white) 
+**Dados**
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
 
-#### ☁️ Cloud & Web (Manutenção)
-- ![GCP](https://img.shields.io/badge/-GCP-333333?style=plastic&logo=google-cloud) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=plastic&logo=cloudflare) 
+**Ferramentas**
+<br>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 
-##
- 
-<div align="center"> 
-  <a href = "https://www.instagram.com/alexandreslima.oficial/">            <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:contatosantos12ddt@gmail.com">                          <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href = "https://www.linkedin.com/in/alexandreslima-oficial/">          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5595984028327">            <img src="https://img.shields.io/badge/whatsapp-whatsapp?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
+### Projetos
 
-<div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasilva242&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=assembly,c%2b%2b,cmake,css,html,jupyter%20notebook,vhdl,lua,javascript,typescript&exclude_repo=dotfiles" />
-</div>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [manipulacao-dados-api-marvel](https://github.com/vitoriasilva242/manipulacao-dados-api-marvel) | Consumo e manipulação de dados da API da Marvel | Python |
+| [LinguagensdeProgramacao](https://github.com/vitoriasilva242/LinguagensdeProgramacao) | Exercícios e estudos de linguagens de programação | — |
+
+### No momento
+
+- 📚 Estudando estruturas de dados, lógica de programação e desenvolvimento web
+- 🌱 Sempre aprendendo — aberta a feedback e colaborações!
